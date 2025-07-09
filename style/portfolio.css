@@ -150,3 +150,36 @@ main section{
  .experience-description{
     font-size: 16px;
  }
+ .btm2{
+    text-align:center;
+    margin:20px;}
+    .footer-column{
+        background-color: #FFF8F3;
+        width:50%;
+        
+    }
+    footer{
+       
+        padding:130px 230px;
+display: flex;
+
+    }
+    footer input[type="text"],footer textarea{
+        width:461px;
+        height:64px;
+        border-radius:5px;
+        display: block;
+       padding:10px 20px;
+       margin-bottom: 24px;
+        background-color: white;
+        color: #757575;
+    }
+    .para3{
+        font-size:18px;
+        color: #474747;
+        text-align:center;
+    }
+    .last{
+        
+        gap:20px;
+    }
